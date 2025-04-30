@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+main {
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+#styledElement {
+    color: navy;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.highlight {
+    background-color: yellow;
+    font-style: italic;
+}
+
+#itemList {
+    list-style-type: disc;
+    padding-left: 20px;
+}
